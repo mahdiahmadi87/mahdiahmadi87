@@ -7,7 +7,7 @@
   <br>
   
   <h2 id="social-media">Social Media</h2>
-  <p><a href="https://t.me/hajvas"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&style=for-the-badg&logoColor=white" width='120' alt="Telegram"></a></p>
+  <p><a href="https://t.me/hajvas"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&style=for-the-badg&logoColor=white" width='100' alt="Telegram"></a></p>
 
   <br>
 
@@ -24,9 +24,7 @@
   <br>
 
   <h1 id="donate">Donate</h1>
-  <blockquote>
-    <p><em>Support me with a donation so I can stay motivated and create even more creative projects for you :)</em></p>
-  </blockquote>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=2000&color=7A858F&center=true&vCenter=true&repeat=false&random=false&width=1207&height=64&lines=Support+me+with+a+donation+so+I+can+stay+motivated+and+create+even+more+creative+projects+for+you+%3A)" alt="Support me with a donation so I can stay motivated and create even more creative projects for you :)"/>
 
   <br>
 
