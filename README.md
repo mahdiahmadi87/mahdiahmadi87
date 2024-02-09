@@ -24,8 +24,11 @@
   <br>
 
   <h1 id="donate">Donate</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=2000&color=7A858F&center=true&vCenter=true&repeat=true&random=false&width=1207&height=64&lines=Support+me+with+a+donation+so+I+can+stay+motivated+and+create+even+more+creative+projects+for+you+%3A)" alt="Support me with a donation so I can stay motivated and create even more creative projects for you :)"/>
 
+  <blockquote>
+    <p>Support me with a donation so I can stay motivated and create even more creative projects for you :)</p>
+  </blockquote>
+  
   <br>
 
   <h2 id="coffee">Coffee</h2>
