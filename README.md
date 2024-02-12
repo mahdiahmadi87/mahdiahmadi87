@@ -3,8 +3,6 @@
   <p>🌐 Just a simple Programming </p>
   <p>🤓 I love Programming / Technology / Music .</p>
   <p>💻 I have experience on Python / PHP / JavaScript .</p>
-
-  <img src="https://hctilg.top/cute/api.php?types=cat,dog,anime,etc"/>
   
   <br>
   
