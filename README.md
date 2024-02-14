@@ -17,7 +17,6 @@
   <br>
 
   <h1 id="github-stats">GitHub Stats</h1>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hctilg&theme=dark&hide_border=true" alt=""></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=hctilg&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt=""></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt=""></p>
 
