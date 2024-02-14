@@ -12,7 +12,7 @@
   <br>
 
   <h1 id="skills">Skills</h1>
-  <p><img src="https://skillicons.dev/icons?i=cpp,raspberrypi,docker,linux,ruby,bash,regex,qt,selenium,sqlite,python,django,fastapi,flask,dart,flutter,mongodb,php,mysql,vim,neovim,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7" alt="Skills"></p>
+  <p><img src="https://skillicons.dev/icons?i=cpp,raspberrypi,docker,linux,ruby,bash,regex,qt,selenium,sqlite,python,django,fastapi,flask,dart,flutter,mongodb,php,mysql,figma,,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7" alt="Skills"></p>
 
   <br>
 
