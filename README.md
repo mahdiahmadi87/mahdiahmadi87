@@ -7,7 +7,7 @@
   <br>
   
   <h2 id="social-media">Social Media</h2>
-  <p><a href="a884fe.t.me"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&style=for-the-badg&logoColor=white" width='100' alt="Telegram"></a></p>
+  <p><a href="https://a884fe.t.me"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&style=for-the-badg&logoColor=white" width='100' alt="Telegram"></a></p>
 
   <br>
 
