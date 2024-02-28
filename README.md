@@ -5,11 +5,6 @@
   <p>💻 I have experience on Python / PHP / JavaScript .</p>
   
   <br>
-  
-  <h2 id="social-media">Social Media</h2>
-  <p><a href="https://a884fe.t.me"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&style=for-the-badg&logoColor=white" width='100' alt="Telegram"></a></p>
-
-  <br>
 
   <h1 id="skills">Skills</h1>
   <p><img src="https://skillicons.dev/icons?i=cpp,raspberrypi,docker,linux,ruby,bash,regex,rust,qt,selenium,python,django,fastapi,flask,dart,flutter,figma,mongodb,sqlite,mysql,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7" alt="Skills"></p>
