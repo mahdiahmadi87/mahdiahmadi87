@@ -1,13 +1,13 @@
 <div align=center>
   <h1 id="about-me">About Me</h1>
-  <p>🌐 Just a simple Programming </p>
-  <p>🤓 I love Programming / Technology / Music .</p>
-  <p>💻 I have experience on Python / PHP / JavaScript .</p>
+  <p>Just a simple Programming </p>
+  <p>I love Programming / Technology / Music .</p>
+  <p>I have experience on Python / PHP / JavaScript .</p>
   
   <br>
 
   <h1 id="skills">Skills</h1>
-  <p><img src="https://skillicons.dev/icons?i=cpp,raspberrypi,docker,linux,ruby,bash,regex,rust,qt,selenium,python,django,fastapi,flask,dart,flutter,figma,mongodb,sqlite,mysql,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7" alt="Skills"></p>
+  <p><img src="https://skillicons.dev/icons?i=raspberrypi,ruby,docker,linux,rust,cpp,bash,regex,qt,selenium,python,django,fastapi,flask,dart,flutter,mysql,mongodb,sqlite,figma,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7" alt="Skills"></p>
 
   <br>
 
