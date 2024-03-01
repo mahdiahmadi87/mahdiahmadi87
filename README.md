@@ -1,44 +1,87 @@
-<div align=center>
-  <h1 id="about-me">About Me</h1>
-  <p>Just a simple Programming </p>
-  <p>I love Programming / Technology / Music .</p>
-  <p>I have experience on Python / PHP / JavaScript .</p>
-  
-  <br>
-
-  <h1 id="skills">Skills</h1>
-  <p><img src="https://skillicons.dev/icons?i=raspberrypi,ruby,docker,linux,rust,cpp,bash,regex,qt,selenium,python,django,fastapi,flask,dart,flutter,mysql,mongodb,sqlite,figma,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7" alt="Skills"></p>
-
-  <br>
-
-  <h1 id="github-stats">GitHub Stats</h1>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hctilg&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="">
-  </p>
-
-  <br>
-
-  <h1 id="donate">Donate</h1>
-
-  <blockquote>
-    <p>Support me with a donation so I can stay motivated and create even more creative projects for you :)</p>
-  </blockquote>
-  
-  <br>
-
-  <h2 id="coffee">Coffee</h2>
-  <p><a href="https://daramet.com/hctilg"><img src="https://github.com/hctilg/hctilg/assets/98208009/15f4d723-5ff3-49dd-8128-e77a236f9787" width='250' alt="coffe-donate"/></a></p>
-
-  <h2 id="btc">BTC</h2>
-  <p><a href="https://link.trustwallet.com/send?coin=0&address=bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km"><img src="https://github.com/hctilg/hctilg/assets/98208009/365c17c7-bf01-4976-9f4c-ff5173373889" width='320' alt="btc-donate"></a></p>
-  <p><code>c1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km</code></p>
-  
-  <h2 id="eth">ETH</h2>
-  <p><a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B"><img src="https://github.com/hctilg/hctilg/assets/98208009/73dac56e-3461-4d6e-a250-eccbcd70df66" width='320' alt="eth-donate"></a></p>
-  <p><code>0xf435311e5be19B9345BCe5f3c8a5eA934059164B</code></p>
-
-  <h2 id="usdt">USDT</h2>
-  <p><a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7"><img src="https://github.com/hctilg/hctilg/assets/98208009/9eaeed5c-97f9-46a7-9695-693aadc30811" width='320' alt="usdt-donate"></a></p>
-  <p><code>0xf435311e5be19B9345BCe5f3c8a5eA934059164B</code></p>
-</div>
+<h3 align="center">
+  <samp>$ Hey There!, I am <b>Mahi</b> <img src="hi.gif" width="20"/>
+  </samp>
+</h3>
+<br>
+<p align="center">
+    <samp>< a stupid with stupid ideas ></samp>
+    <br>
+    <br>
+    <a href="https://t.me/a884fe">
+      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=Telegram&logoColor=white&link=https://t.me/a884fe"/>
+    </a>
+    <a href="mailto:">
+      <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=Gmail&logoColor=white&link=mailto:"/>
+    </a>
+    <a href="https://gist.github.com/hctilg">
+      <img alt="Gist" src="https://img.shields.io/badge/Gist-gray.svg?logo=git&logoColor=white&link=https://gist.github.com/hctilg"/>
+    </a>
+</p>
+<details align="center">
+    <summary> <samp>☰ Details</samp></summary>
+    <p align="center">
+        <br>
+        <samp>< Just a Simple Programmer ></samp>
+        <br>
+        <br>
+        <img alt="Skills" src="https://skillicons.dev/icons?i=raspberrypi,ruby,docker,linux,rust,cpp,bash,regex,qt,selenium,python,django,fastapi,flask,dart,flutter,mysql,mongodb,sqlite,figma,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7"/>
+        <br>
+        <br>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hctilg&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=25&area=true&hide_border=true&border_radius=20&card_width=450&count_private=true"/>
+        <br>
+        <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&langs_count=8&hide=css,html,SCSS,Batchfile&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
+        <br>
+        <br>
+        <img alt="Counter Status" src="https://komarev.com/ghpvc/?username=hctilg&color=684acf"/>
+</details>
+<details align="center">
+    <summary><samp>♡ Donation</samp></summary>
+    <br>
+    <p>If my Projects helped you, you can also help me too 🥰</p>
+    <br>
+    <table align="center">
+        <tr>
+            <td>
+                <a href="https://link.trustwallet.com/send?coin=0&address=bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km" target="_blank">
+                    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-BTC-orange">
+                </a>
+            </td>
+            <td>
+                <a href="https://link.trustwallet.com/send?coin=0&address=bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km" target="_blank">bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B" target="_blank">
+                    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-ETH-blue">
+                </a>
+            </td>
+            <td>
+                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B" target="_blank">0xf435311e5be19B9345BCe5f3c8a5eA934059164B</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7" target="_blank">
+                    <img alt="Tether" src="https://img.shields.io/badge/Tether-ERC20-26A17B">
+                </a>
+            </td>
+            <td>
+                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7" target="_blank">0xf435311e5be19B9345BCe5f3c8a5eA934059164B</a>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <a href="https://daramet.com/hctilg" target="_blank">
+      <img alt="Coffee" src="bmc.svg" width="180"/>
+    </a>
+    <br>
+    <br>
+</details>
+<samp>
+    <p align="center">
+    ═════ ⋆★⋆ ═════
+    <br>
+        "自由のために"
+    </p>
+</samp>
