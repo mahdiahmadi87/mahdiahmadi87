@@ -73,7 +73,7 @@
     </table>
     <br>
     <a href="https://daramet.com/hctilg" target="_blank">
-      <img alt="Coffee" src="bmc.svg" width="180"/>
+      <img alt="Coffee" src="bmc.jpg" width="180"/>
     </a>
     <br>
     <br>
