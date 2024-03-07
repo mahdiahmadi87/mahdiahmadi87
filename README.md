@@ -60,9 +60,9 @@
     <br>
     <a href="https://daramet.com/hctilg" target="_blank">
       <picture>
-          <source srcset="bmc.jpg" media="(prefers-color-scheme: dark)"/>
+          <source srcset="bmc(dark-theme).svg" media="(prefers-color-scheme: dark)"/>
           <source srcset="bmc.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-          <img alt="Coffee" src="bmc.jpg"/>
+          <img alt="Coffee" src="bmc.svg"/>
         </picture>
     </a>
     <br>
