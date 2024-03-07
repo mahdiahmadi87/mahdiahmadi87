@@ -44,13 +44,13 @@
     </a>
     <span> &nbsp; </span>
     <code>bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km</code>
-    <br>
+    <br><br>
     <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B" target="_blank">
       <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-ETH-blue">
     </a>
     <span> &nbsp; </span>
     <code>0xf435311e5be19B9345BCe5f3c8a5eA934059164B</code>
-    <br>
+    <br><br>
     <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7" target="_blank">
       <img alt="Tether" src="https://img.shields.io/badge/Tether-ERC20-26A17B" width=100/>
     </a>
@@ -65,7 +65,6 @@
           <img alt="Coffee" src="bmc.jpg"/>
         </picture>
     </a>
-    <br>
     <br>
 </details>
 <samp>
