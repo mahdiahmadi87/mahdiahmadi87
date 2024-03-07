@@ -39,41 +39,31 @@
     <br>
     <p>If my Projects helped you, you can also help me too 🥰</p>
     <br>
-    <table align="center">
-        <tr>
-            <td>
-                <a href="https://link.trustwallet.com/send?coin=0&address=bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km" target="_blank">
-                    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-BTC-orange">
-                </a>
-            </td>
-            <td>
-                <a href="https://link.trustwallet.com/send?coin=0&address=bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km" target="_blank">bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B" target="_blank">
-                    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-ETH-blue">
-                </a>
-            </td>
-            <td>
-                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B" target="_blank">0xf435311e5be19B9345BCe5f3c8a5eA934059164B</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7" target="_blank">
-                    <img alt="Tether" src="https://img.shields.io/badge/Tether-ERC20-26A17B">
-                </a>
-            </td>
-            <td>
-                <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7" target="_blank">0xf435311e5be19B9345BCe5f3c8a5eA934059164B</a>
-            </td>
-        </tr>
-    </table>
+    <a href="https://link.trustwallet.com/send?coin=0&address=bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km" target="_blank">
+      <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-BTC-orange">
+    </a>
+    <span> &nbsp; </span>
+    <code>bc1qn2v7egk923fp3f9v8a3779pservfsr8kxek8km</code>
+    <br>
+    <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B" target="_blank">
+      <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-ETH-blue">
+    </a>
+    <span> &nbsp; </span>
+    <code>0xf435311e5be19B9345BCe5f3c8a5eA934059164B</code>
+    <br>
+    <a href="https://link.trustwallet.com/send?coin=60&address=0xf435311e5be19B9345BCe5f3c8a5eA934059164B&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7" target="_blank">
+      <img alt="Tether" src="https://img.shields.io/badge/Tether-ERC20-26A17B" width=100/>
+    </a>
+    <span> &nbsp; </span>
+    <code>0xf435311e5be19B9345BCe5f3c8a5eA934059164B</code>
+    <br>
     <br>
     <a href="https://daramet.com/hctilg" target="_blank">
-      <img alt="Coffee" src="bmc.jpg" width="180"/>
+      <picture>
+          <source srcset="bmc.jpg" media="(prefers-color-scheme: dark)"/>
+          <source srcset="bmc.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img alt="Coffee" src="bmc.jpg"/>
+        </picture>
     </a>
     <br>
     <br>
