@@ -29,7 +29,7 @@
         <br>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hctilg&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=25&area=true&hide_border=true&border_radius=20&card_width=450&count_private=true"/>
         <br>
-        <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=css,html,SCSS,Batchfile&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
+        <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=Mako,css,html,SCSS,Batchfile&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
         <br>
         <br>
         <img alt="Counter Status" src="https://komarev.com/ghpvc/?username=hctilg&color=684acf"/>
