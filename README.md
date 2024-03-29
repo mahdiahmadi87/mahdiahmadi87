@@ -4,7 +4,8 @@
 </h3>
 <br>
 <p align="center">
-    <samp>< a stupid with stupid ideas ></samp>
+    <h4 align="center" id="random-dev-quote">✍️ Random Dev Quote</h4>
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""><!--     <samp>< a stupid with stupid ideas ></samp> -->
     <br>
     <br>
     <a href="https://t.me/a884fe">
