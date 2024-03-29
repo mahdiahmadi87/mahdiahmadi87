@@ -4,8 +4,7 @@
 </h3>
 <br>
 <p align="center">
-    <h4 align="center" id="random-dev-quote">✍️ Random Dev Quote</h4>
-    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""><!--     <samp>< a stupid with stupid ideas ></samp> -->
+    <samp>< a stupid with stupid ideas ></samp>
     <br>
     <br>
     <a href="https://t.me/a884fe">
@@ -23,6 +22,9 @@
     <p align="center">
         <br>
         <samp>< Just a Simple Programmer ></samp>
+        <br>
+        <br>
+        <img alt="random-dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
         <br>
         <br>
         <img alt="Skills" src="https://skillicons.dev/icons?i=raspberrypi,ruby,docker,linux,rust,cpp,bash,regex,qt,selenium,python,django,fastapi,flask,dart,flutter,mysql,mongodb,sqlite,figma,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7"/>
