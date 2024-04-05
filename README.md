@@ -7,8 +7,8 @@
     <samp>< a stupid with stupid ideas ></samp>
     <br>
     <br>
-    <a href="https://t.me/a884fe">
-      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=Telegram&logoColor=white&link=https://t.me/a884fe"/>
+    <a href="https://t.me/violet_ink">
+      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=Telegram&logoColor=white&link=https://t.me/violet_ink"/>
     </a>
     <a href="mailto:">
       <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=Gmail&logoColor=white&link=mailto:"/>
