@@ -7,9 +7,9 @@
     <samp>< a stupid with stupid ideas ></samp>
     <br>
     <br>
-    <a href="https://violet_void.t.me/">
+    <!--<a href="https://username.t.me/">
       <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=Telegram&logoColor=white&link=https://violet_void.t.me/"/>
-    </a>
+    </a>-->
     <a href="mailto:">
       <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=Gmail&logoColor=white&link=mailto:"/>
     </a>
