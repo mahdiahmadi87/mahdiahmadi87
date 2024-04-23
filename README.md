@@ -1,4 +1,4 @@
-<h3 align="center">
+⁪<h3 align="center">
   <samp>$ Hey There!, I am <b>Mahi</b> <img src="hi.gif" width="20"/>
   </samp>
 </h3>
