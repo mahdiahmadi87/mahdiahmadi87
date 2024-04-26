@@ -63,9 +63,9 @@
     <br>
     <a href="https://daramet.com/hctilg" target="_blank">
       <picture>
-          <source srcset="bmc(dark-theme).svg" media="(prefers-color-scheme: dark)"/>
-          <source srcset="bmc.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-          <img alt="Coffee" src="bmc.svg"/>
+          <source srcset="bmc(dark-theme).svg#dark" media="(prefers-color-scheme: dark)"/>
+          <source srcset="bmc.svg#light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img alt="Coffee" src="bmc.svg#light"/>
         </picture>
     </a>
     <br>
