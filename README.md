@@ -27,7 +27,7 @@
         <img alt="random-dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
         <br>
         <br>
-        <img alt="Skills" src="https://skillicons.dev/icons?i=raspberrypi,ruby,docker,linux,rust,cpp,bash,regex,qt,selenium,python,django,fastapi,flask,dart,flutter,mysql,mongodb,sqlite,figma,php,tailwind,nextjs,react,js,vue,nuxtjs,materialui&perline=7"/>
+        <img alt="Skills" src="https://skillicons.dev/icons?i=raspberrypi,ruby,docker,linux,rust,cpp,bash,regex,qt,selenium,python,django,fastapi,flask,tailwind,nextjs,react,js,vue,nuxtjs,materialui,php,dart,flutter,typescript,mysql,mongodb,sqlite&perline=7"/>
         <br>
         <br>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hctilg&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=25&area=true&hide_border=true&border_radius=20&card_width=450&count_private=true"/>
