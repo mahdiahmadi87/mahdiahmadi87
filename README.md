@@ -37,7 +37,7 @@
         <br>
         <img alt="Counter Status" src="https://komarev.com/ghpvc/?username=hctilg&color=684acf"/>
 </details>
-<details open align="center">
+<details align="center">
     <summary><samp>♡ Donation</samp></summary>
     <br>
     <p>If my Projects helped you, you can also help me too 🥰</p>
