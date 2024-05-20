@@ -35,7 +35,7 @@
         <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiahmadi87&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=Mako,css,html,SCSS,Batchfile,SVG&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
         <br>
         <br>
-        <img alt="Counter Status" src="https://komarev.com/ghpvc/?username=hctilg&color=684acf"/>
+        <img alt="Counter Status" src="https://komarev.com/ghpvc/?username=mahdiahmadi87&color=684acf"/>
 </details>
 <samp>
     <p align="center">
