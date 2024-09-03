@@ -4,7 +4,9 @@
 </h3>
 <br>
 <p align="center">
-  <samp>< a stupid with stupid ideas ></samp>
+  <samp>< LOW EXPECTATIONS ></samp>
+  <br>
+  <samp>< HIGH HOPES ></samp>
   <br>
   <br>
   <a href="https://ahmadi_py.t.me/">
@@ -15,8 +17,6 @@
   </a>
 </p>
 <p align="center">
-  <br>
-  <samp>< Just a Simple Programmer ></samp>
   <br>
   <br>
   <img alt="random-dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
