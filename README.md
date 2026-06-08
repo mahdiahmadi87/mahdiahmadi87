@@ -1,5 +1,5 @@
 ⁪<h3 align="center">
-  <samp>$ Hey There!, I am <b>Mahdi</b> <img src="hi.gif" width="20"/>
+  <samp>$ Hey There!, I am <b>Midnight</b> <img src="hi.gif" width="20"/>
   </samp>
 </h3>
 <br>
@@ -9,7 +9,7 @@
   <samp>< HIGH HOPES ></samp>
   <br>
   <br>
-  <a href="https://ahmadi_py.t.me/">
+  <a href="https://midnightma.t.me/">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=Telegram&logoColor=white&link=https://ahmadi_py.t.me/"/>
   </a>
   <a href="mailto:mahdi.ahmadi.1387@gmail.com">
