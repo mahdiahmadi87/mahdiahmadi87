@@ -25,12 +25,10 @@
   <img alt="Skills" src="https://skillicons.dev/icons?i=,,arduino,bash,blender,,,,cloudflare,cpp,css,,,,django,,,,express,,fastapi,,,,git,,github,,godot,html,,,js,,,,,,linux,mysql,,nodejs,,,,,,,,,,npm,pkl,,,,,,,,,,,,postman,,pr,,,,,py,,,,,ps,,,,unreal,,,,,,,,raspberrypi,,,,,,regex,,,,,,sketchup,,,,,,,,sklearn,,,,sqlite,,,,,,,,,,stackoverflow,,ubuntu,,,,,,,,,,,,vscode&perline=13"/>
   <br>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahdiahmadi87&show_icons=true&theme=tokyonight&line_height=25&area=true&hide_border=true&border_radius=20&card_width=450&count_private=true"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=midnightma&show_icons=true&theme=tokyonight&line_height=25&area=true&hide_border=true&border_radius=20&card_width=450&count_private=true"/>
   <br>
-  <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiahmadi87&langs_count=20&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
+  <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightma&langs_count=20&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
   <br>
-  <br>
-  <img alt="Counter Status" src="https://komarev.com/ghpvc/?username=mahdiahmadi87&color=684acf"/>
 <samp>
     <p align="center">
     ═════ ⋆★⋆ ═════
